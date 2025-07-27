@@ -1,32 +1,34 @@
 # todo-list-python
 My first Python project: a terminal-based task manager using basic programming concepts.
-# 📝 To-Do List App in Python
+# ✅ To-Do List App in Python
 
-This is a simple command-line **To-Do List app** built using Python. It allows users to add tasks, mark them as completed, and delete them.
+This is a simple terminal-based To-Do List Manager built using **basic Python programming** concepts such as loops, conditionals, lists, and functions.
 
-## 🚀 Features
+---
 
-- Add tasks to your list
-- View all tasks with status
+## 🧠 Features
+- Add new tasks
 - Mark tasks as complete ✅
-- Delete tasks ❌
-- Exit safely anytime
+- View all tasks
+- Delete tasks
 
-## 🧠 What You’ll Learn
+---
 
-- Python Lists & Dictionaries
-- Functions & Loops
-- User input and CLI (Command Line Interface)
-- Clean code structure
+## 🖥️ Sample Output
 
-## 💻 How to Run the Project
+Here’s how the console output looks when running the program:
 
-1. Make sure Python is installed:  
-   [Download Python](https://www.python.org/downloads/)
-   
-2. Clone the repository or download `todo.py`
+![App Output](Screenshot%202025-04-28%20222200.png)
 
-3. Run the app using the terminal or command prompt:
+---
+
+## 🛠 Technologies Used
+- Language: Python 3
+- Environment: Command-line (terminal)
+
+---
+
+## 📂 How to Run
 
 ```bash
-python todo.py
+python main.py
